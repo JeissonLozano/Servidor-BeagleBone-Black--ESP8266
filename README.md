@@ -2,6 +2,10 @@
 
 Este código pertenece al microcontrolador esp8266 de una serie de IoT, en esta primera etapa se hizo un ejemplo donde se evidencia el funcionamiento de un servidor de forma local.
 
+## Construido con 🛠️
+* [VsCode](https://code.visualstudio.com/) - Editor de texto Visual Studio Code
+* [PlatformIO](https://platformio.org/) - PlatformIO IDE
+
 # A continuación el esquema de conexión: 
 ![ESQUEMA DE CONEXIÓN ESP8266](https://github.com/JeissonLozano/Servidor-BeagleBone-Black--ESP8266/blob/master/Conexi%C3%B3n.png)
  
