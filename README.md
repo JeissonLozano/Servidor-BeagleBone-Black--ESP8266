@@ -6,6 +6,9 @@ Este código pertenece al microcontrolador esp8266 de una serie de IoT, en esta 
 * [VsCode](https://code.visualstudio.com/) - Editor de texto Visual Studio Code
 * [PlatformIO](https://platformio.org/) - PlatformIO IDE
 
+## Autor ✒️
+* **Jeisson Lozano** - *Desarrollador* - [Jeisson Lozano](https://github.com/JeissonLozano)
+
 # A continuación el esquema de conexión: 
 ![ESQUEMA DE CONEXIÓN ESP8266](https://github.com/JeissonLozano/Servidor-BeagleBone-Black--ESP8266/blob/master/Conexi%C3%B3n.png)
  
